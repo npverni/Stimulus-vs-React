@@ -8,6 +8,6 @@ For Stimulus examples, see `src/controllers` and  `public/index.html`;
 For React examples, see `src/components`
 
 ```
-yarn intall
+yarn install
 yarn start
 ```
